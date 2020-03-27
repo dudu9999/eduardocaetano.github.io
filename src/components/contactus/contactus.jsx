@@ -55,7 +55,6 @@ export default class ContactUs extends Component {
                   Eduardo Caetano Corrêa<br />
                   Porto Alegre/RS <br />
                   Bairro Coronel Apariço Borges<br />
-                  <span><a href="https://api.whatsapp.com/send?1=pt_BR&phone=5551983426092">+55 (51) 983 426 092</a></span>
                 </p>
               </div>
             </aside>
