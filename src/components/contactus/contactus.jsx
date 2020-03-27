@@ -50,7 +50,7 @@ export default class ContactUs extends Component {
             </div>
             <aside className="four columns footer-widgets">
               <div className="widget widget_contact">
-                <h4>Endereço e telefone</h4>
+                <h4>Endereço</h4>
                 <p className="address">
                   Eduardo Caetano Corrêa<br />
                   Porto Alegre/RS <br />
