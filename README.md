@@ -11,7 +11,7 @@ Esse é o meu site que desenvolvi em React.JS
 
 ## Desenvolvedor:
 - Nome: Eduardo Caetano Corrêa
-- Site: https://www.eduardocaetano.ga/
+- Site: https://eduardo-caetano.netlify.app/
 - Github: https://github.com/dudu9999
 - Facebook: https://www.facebook.com/ecaetanocorrea
 
